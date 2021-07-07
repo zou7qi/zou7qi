@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zou7qi
 - 👀 I’m interested in android,java and so on
-- 🌱 I’m currently learning 《程序员的自我修养》
+- 🌱 I’m currently learning 《程序员的自我修养——链接装载与库》
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
